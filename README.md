@@ -1,3 +1,3 @@
 # Collections Java
 
-Esté o meu repositório sobre estudos de collections em Java
+Este é o meu repositório sobre estudos de collections em Java
